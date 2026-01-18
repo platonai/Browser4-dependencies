@@ -1,0 +1,3 @@
+[submodule "pulsar-h2"]
+	path = pulsar-h2
+	url = https://github.com/platonai/pulsar-h2.git
